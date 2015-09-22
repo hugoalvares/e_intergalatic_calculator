@@ -1,0 +1,9 @@
+C:\workfolder\IntergalaticCalculator\IntergalaticCalculator\bin\Debug\IntergalaticCalculator.exe.config
+C:\workfolder\IntergalaticCalculator\IntergalaticCalculator\obj\Debug\IntergalaticCalculator.Properties.Resources.resources
+C:\workfolder\IntergalaticCalculator\IntergalaticCalculator\obj\Debug\IntergalaticCalculator.csproj.GenerateResource.Cache
+C:\workfolder\IntergalaticCalculator\IntergalaticCalculator\bin\Debug\IntergalaticCalculator.exe
+C:\workfolder\IntergalaticCalculator\IntergalaticCalculator\bin\Debug\IntergalaticCalculator.pdb
+C:\workfolder\IntergalaticCalculator\IntergalaticCalculator\obj\Debug\IntergalaticCalculator.exe
+C:\workfolder\IntergalaticCalculator\IntergalaticCalculator\obj\Debug\IntergalaticCalculator.pdb
+C:\workfolder\IntergalaticCalculator\IntergalaticCalculator\obj\Debug\IntergalaticCalculator.csprojResolveAssemblyReference.cache
+C:\workfolder\IntergalaticCalculator\IntergalaticCalculator\obj\Debug\IntergalaticCalculator.frmIntergalaticCalculator.resources
